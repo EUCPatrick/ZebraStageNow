@@ -1,0 +1,8 @@
+﻿<wap-provisioningdoc>
+  <characteristic version="10.1" type="PowerMgr">
+    <parm name="ResetAction" value="8" />
+    <characteristic type="file-details">
+      <parm name="ZipFile" value="/sdcard/OS.zip" />
+    </characteristic>
+  </characteristic>
+</wap-provisioningdoc>
