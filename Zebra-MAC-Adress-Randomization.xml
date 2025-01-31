@@ -1,0 +1,11 @@
+<wap-provisioningdoc>
+  <characteristic version="9.1" type="Wi-Fi">
+    <parm name="UseRegulatory" value="0" />
+    <parm name="UseDiagnosticOptions" value="0" />
+    <parm name="UseAdvancedOptions" value="1" />
+    <characteristic type="AdvancedOptions">
+      <parm name="MACRandomization" value="0" />
+    </characteristic>
+    <parm name="UseHotspotOptions" value="0" />
+  </characteristic>
+</wap-provisioningdoc>
